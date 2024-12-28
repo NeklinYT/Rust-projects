@@ -2,6 +2,7 @@ use std::io;
 
 fn main() {
     let mut list: Vec<i32>= Vec::new();
+    println!("Калькулятор среднего арифметического");
 
     loop {
         let mut input = String::new();
@@ -33,6 +34,9 @@ fn main() {
     } else {
         println!("Вы должны написать хотябы два числа перед подсчетом");
     }
+
+    println!("Нажмите любую кнопку чтобы выйти");
+    let _ = io::stdin().read_line(&mut String::new());
 
 }
 
