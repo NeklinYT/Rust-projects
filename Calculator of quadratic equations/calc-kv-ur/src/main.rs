@@ -2,11 +2,13 @@ use std::io;
 
 fn main() {
 
+    println!("\"exit\" - для выхода");
+
+    loop {
     let mut a_str = String::new();
     let mut b_str = String::new();
     let mut c_str = String::new();
 
-    loop {
     println!("Решить квадратное уравнение");
 
 
