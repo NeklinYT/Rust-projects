@@ -1,0 +1,12 @@
+/home/neklin/Programming/Rust_learning/fltk/calc-of-2-nums/target/debug/build/fltk-sys-8977a4f685ea457a/build_script_main-8977a4f685ea457a: /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/main.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/android.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/bundled.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/emscripten.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/link.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/pkg_config.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/source.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/utils.rs
+
+/home/neklin/Programming/Rust_learning/fltk/calc-of-2-nums/target/debug/build/fltk-sys-8977a4f685ea457a/build_script_main-8977a4f685ea457a.d: /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/main.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/android.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/bundled.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/emscripten.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/link.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/pkg_config.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/source.rs /home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/utils.rs
+
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/main.rs:
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/android.rs:
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/bundled.rs:
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/emscripten.rs:
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/link.rs:
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/pkg_config.rs:
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/source.rs:
+/home/neklin/.cargo/git/checkouts/fltk-rs-9307d2141514d51d/58f45ad/fltk-sys/build/utils.rs:

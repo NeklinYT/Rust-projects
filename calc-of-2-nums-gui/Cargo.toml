@@ -1,0 +1,9 @@
+[package]
+name = "calc-of-2-nums"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = { version = "^1.5", features = ["fltk-bundled"] }
